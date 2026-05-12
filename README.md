@@ -123,7 +123,8 @@ Key SQL analysis performed:
 ---
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+<img width="1009" height="564" alt="Screenshot (726)" src="https://github.com/user-attachments/assets/6fda3b7a-bd75-45b6-8219-d2c395d1eb2c" />
+
 
 ---
 
